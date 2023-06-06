@@ -7,4 +7,3 @@ Coding Stacks Used: HTML, CSS
 
 # Website Screenshot
 
-
